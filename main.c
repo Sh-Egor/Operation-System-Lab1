@@ -20,7 +20,6 @@ int main(int argc, char const *argv[])
 {
 	char filename[100];
 	char fullname[1000];
-	printf("Hi\n");
 	if(argc == 1){
 		//quest_mode();
 		printf("Start quest_mode\n");
